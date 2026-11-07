@@ -1,6 +1,6 @@
 # arrow-mapper
 
-Atlas formatter and previewer. Detect sprite regions, fit replacement artwork
+Atlas formatter, previewer, and Sparrow outputter. Detect sprite regions, fit replacement artwork
 into an existing sheet, and export a PNG with Sparrow XML, numbered previews,
 and comparison overlays. Python 3.15 or newer is required.
 
