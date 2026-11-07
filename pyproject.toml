@@ -5,6 +5,6 @@ version = "0.1.0"
 requires-python = ">=3.15"
 dependencies = [
     "numpy>=2,<3",
-    "pillow>=11,<13",
+    "pillow>=11,<14",
     "scipy>=1.14,<2",
 ]
